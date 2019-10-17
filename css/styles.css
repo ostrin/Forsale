@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: deepskyblue
+}
+header {
+	background-color: yellow;
+	text-align: center;
+	padding: 1px;
+    
+		
+    
+}
+
+img {
+	float:left;
+	padding-right: 20px;
+	width: 50%
+}
+
+article {
+	background-color: orangered;
+}
